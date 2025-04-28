@@ -1,4 +1,4 @@
-# Data-Analyst-Telefonica
+# Data-Scientist-Telefonica
 ####### keywords: Python, R, Tableau, excel
 I worked on existing R codes while generates monthly and weekly data of traffic, RAN uplink, downlinks, subscribers, data usage by performing some statistical calculations.
 Analysed the data and performed cleaning steps, dealing with the missing values, outliers, unstandardised covid fluctuated data.
